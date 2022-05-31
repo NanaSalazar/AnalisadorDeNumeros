@@ -1,2 +1,2 @@
 # AnalisadorDeNumeros
- Analisa numeros inseridos
+ Analisa números inseridos pelo usuário e informa dados sobre eles.
