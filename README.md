@@ -1,0 +1,2 @@
+# AnalisadorDeNumeros
+ Analisa numeros inseridos
